@@ -1,0 +1,16 @@
+.map-container {
+    height: 850px;
+    width: 1500px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+/* .sidebarStyle{
+    position: absolute;
+    padding-top: 20px;
+
+    
+} */
+
+    
